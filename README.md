@@ -12,7 +12,7 @@ sudo apt-get update
 
 sudo apt-get install oracle-java8-installer
 
-b.Android SDK:
+b.Install Android SDK:
 
 sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
 
