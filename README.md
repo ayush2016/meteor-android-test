@@ -26,7 +26,7 @@ c.Download 'SDK Platform' for android-23, Android SDK Platform-tools (latest), A
 
 d.Set the ANDROID_HOME environment variable:
 
-UBUNTU -> File Explorer -> Ctrl + H -> Edit .bashrc
+Ubuntu -> File Explorer -> Ctrl + H -> Edit .bashrc
 
 export ANDROID_HOME=/home/username/Android/Sdk
 
