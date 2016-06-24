@@ -40,3 +40,4 @@ f. meteor run android-device
 
 Done!
 
+https://ayushvijay.wordpress.com/2016/06/24/meteor-running-on-an-android-device-ubuntu/
