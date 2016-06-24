@@ -36,7 +36,7 @@ export PATH=$PATH:/home/username/Android/Sdk/platform-tools
 
 e.Enable USB debugging in your Android device.
 
-f. meteor run android-device
+f. Run 'meteor run android-device' command.
 
 Done!
 
