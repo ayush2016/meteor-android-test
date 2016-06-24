@@ -1,28 +1,40 @@
 #meteor-android-test
+
 ANGULAR + METEOR
+
 You can use this repo to check if on your Ubuntu (14.04) system, step "Run on Android device" works fine.
 
-Install Java JDK:
+a.Install Java JDK:
+
 sudo add-apt-repository ppa:webupd8team/java
+
 sudo apt-get update
+
 sudo apt-get install oracle-java8-installer
 
-Android SDK:
+b.Android SDK:
+
 sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+
 sudo apt update
+
 sudo apt install ubuntu-make
+
 umake android
 
-Download 'SDK Platform' for android-23, Android SDK Platform-tools (latest), Android SDK Build-tools" (latest).
+c.Download 'SDK Platform' for android-23, Android SDK Platform-tools (latest), Android SDK Build-tools" (latest).
 
-Set the ANDROID_HOME environment variable:
+d.Set the ANDROID_HOME environment variable:
+
 UBUNTU -> File Explorer -> Ctrl + H -> Edit .bashrc
 
 export ANDROID_HOME=/home/username/Android/Sdk
+
 export PATH=$PATH:/home/username/Android/Sdk/tools
+
 export PATH=$PATH:/home/username/Android/Sdk/platform-tools
 
-Enable USB debugging in Android device.
+e.Enable USB debugging in Android device.
 
 Done!
 
