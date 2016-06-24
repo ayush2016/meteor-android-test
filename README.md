@@ -2,7 +2,7 @@
 
 ANGULAR + METEOR
 
-You can use this repo to check if on your Ubuntu (14.04) system, step "Run on Android device" works fine.
+You can use this repo to check if on your Ubuntu (14.04) system, step "Running on an Android device" works fine.
 
 a.Install Java JDK:
 
@@ -34,7 +34,7 @@ export PATH=$PATH:/home/username/Android/Sdk/tools
 
 export PATH=$PATH:/home/username/Android/Sdk/platform-tools
 
-e.Enable USB debugging in Android device.
+e.Enable USB debugging in your Android device.
 
 Done!
 
