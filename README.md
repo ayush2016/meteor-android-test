@@ -39,5 +39,3 @@ e.Enable USB debugging in your Android device.
 f. Run 'meteor run android-device' command.
 
 Done!
-
-https://ayushvijay.wordpress.com/2016/06/24/meteor-running-on-an-android-device-ubuntu/
